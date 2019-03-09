@@ -1,3 +1,8 @@
-#Requirements
+#Installs
+Framework [Unity](https://unity3d.com/get-unity/download)
+Editor [Visual studio code](https://code.visualstudio.com/download)
+*   Debugger [VSCode debugger](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
 
-[https://unity3d.com/get-unity/download](Unity)
+## Extra
+Unity snippets [for VSCode](https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets)
+Source control [Git](https://git-scm.com/downloads)
