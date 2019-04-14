@@ -1,11 +1,22 @@
-# Installs
+# First three
 *   Framework [Unity](https://unity3d.com/get-unity/download)
-*   Editor [Visual studio code](https://code.visualstudio.com/download)
-*   Debugger [VSCode debugger](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
 
-## Extra
-*   Unity snippets [for VSCode](https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets)
-*   Source control [Git](https://git-scm.com/downloads)
+## Logik
+*   [Visual studio code](https://code.visualstudio.com/download)
+*   [Unity Addons](https://code.visualstudio.com/docs/other/unity)
 
-## Mobile
+### Source control
+*   [Git](https://git-scm.com/downloads)
+
+### Guides
 *   [IOS](https://docs.unity3d.com/Manual/iphone-GettingStarted.html) get started 
+
+## Grafik 
+*   [Blender](https://www.blender.org/download/)
+
+## Musik 
+[Soundtrap](https://www.soundtrap.com/)
+
+
+## Distribution
+* [Innoinstaller](http://www.jrsoftware.org/)
