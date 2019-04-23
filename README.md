@@ -13,6 +13,7 @@
 
 ## Grafik 
 *   [Blender](https://www.blender.org/download/)
+*   [Gimp](https://www.gimp.org/)
 
 ## Musik 
 [Soundtrap](https://www.soundtrap.com/)
